@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husnilk&label=Profile%20views&color=0e75b6&style=flat" alt="husnilk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husnilk" alt="husnilk" /></a> </p>
-
 - 🌱 I’m currently learning **Multiplatform Programming**
 
 - 💬 Ask me about **php, laravel, android**
